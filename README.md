@@ -6,8 +6,7 @@ I bridge over a decade of mechanical design and project management experience wi
 
 - 🏗️ **Currently working on:** Designing highly available architectures on AWS and configuring local/cloud Kubernetes clusters (EKS, Kind, Minikube).
 - ⚙️ **Engineering Philosophy:** Automate everything, measure everything, and design for failure. My background in heavy engineering and value analysis (VAVE) drives a structured, empirical approach to cloud architecture and cost optimization.
-- 🤝 **Let's connect:** [https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Br64gnUY%2BSw6e05opSBBEjw%3D%3D]
-
+- 🤝 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/priyanka-pawar/)
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -33,4 +32,4 @@ I bridge over a decade of mechanical design and project management experience wi
 
 ### 📊 GitHub Stats
 <!-- To make these work, replace "YOUR_GITHUB_USERNAME" with your actual username -->
-[![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaPawar1802&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
