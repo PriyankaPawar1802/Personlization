@@ -6,7 +6,7 @@ I bridge over a decade of mechanical design and project management experience wi
 
 - 🏗️ **Currently working on:** Designing highly available architectures on AWS and configuring local/cloud Kubernetes clusters (EKS, Kind, Minikube).
 - ⚙️ **Engineering Philosophy:** Automate everything, measure everything, and design for failure. My background in heavy engineering and value analysis (VAVE) drives a structured, empirical approach to cloud architecture and cost optimization.
-- 🤝 **Let's connect:** [Insert your LinkedIn URL here]
+- 🤝 **Let's connect:** [https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Br64gnUY%2BSw6e05opSBBEjw%3D%3D]
 
 ---
 
