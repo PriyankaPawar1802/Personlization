@@ -6,7 +6,7 @@ I bridge over a decade of mechanical design and project management experience wi
 
 - 🏗️ **Currently working on:** Designing highly available architectures on AWS and configuring local/cloud Kubernetes clusters (EKS, Kind, Minikube).
 - ⚙️ **Engineering Philosophy:** Automate everything, measure everything, and design for failure. My background in heavy engineering and value analysis (VAVE) drives a structured, empirical approach to cloud architecture and cost optimization.
-- 🤝 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/priyanka-pawar/)
+- 🤝 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/priyanka-pawar-362b1a442/)
 ---
 
 ### 🛠️ Tech Stack & Tools
